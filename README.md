@@ -28,10 +28,12 @@ The lecture slides are in Dutch. The accompanying notebooks, however, are in Eng
 - Topics: Segmentation and Object Detection, ResNet, Vision Language Models, Foundation Models for Vision
 - Notebooks:
 
-### Python packages
+### Python packages used.
 - Keras 3
 - Torch
 - Numpy (1 and 2)
 - Huggingface Datasets and Transformers
 - SciKit learn
 - Specific packages such as OpenCV, YOLO, etc etc.
+
+Note: presentations in .pdf. If you are interested in the .pptx, please contact me!
