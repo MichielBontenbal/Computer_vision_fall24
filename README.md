@@ -2,17 +2,17 @@
 A repository of my lectures on Computer Vision (CV) in the fall of 2024.
 
 These lectures are part of the Minor Applied Artificial Intelligence.
-In this minor we give these lectures so students have a basic understanding of CV.
+
+With the lessons (12 hour in total) students just get a basic introduction to CV. 
 Other lecturers do topics like Machine Learing, Data Science, Math & Statistics, NLP etc.
 
-The lecture slides are in Dutch. The accompanying notebooks, however, are in English. 
+The lecture slides are in Dutch. The accompanying notebooks are in English. 
 
 ### Lecture 1: Best of Computer Vision
 - Duration of lecture: 4 hours
 - Topics: CNN's, Image Embeddings, Vision Language Models
 - Notebooks
 
-     
 ### Lecture 2: CV classics
 - Duration of lecture: 2 hours
 - Topics: Preprocessing images with Numpy and OpenCV
