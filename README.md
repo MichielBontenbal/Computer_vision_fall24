@@ -11,22 +11,35 @@ The lecture slides are in Dutch. The accompanying notebooks are in English.
 ### Lecture 1: Best of Computer Vision
 - Duration of lecture: 4 hours
 - Topics: CNN's, Image Embeddings, Vision Language Models
-- Notebooks
+- Notebooks:
+  - MNIST_CNN
+  - Image similarity and clustering
+  - Ollama LLaVA challenge    
 
 ### Lecture 2: CV classics
 - Duration of lecture: 2 hours
 - Topics: Preprocessing images with Numpy and OpenCV
-- Notebooks
+- Notebooks:
+  - Numpy for images
+  - OpenCV 
   
 ### Lecture 3: GenAI for images
 - Duration of lecture: 2 hours
 - Topics: (Variational) Autoencoders and Diffusion Models
-- Notebooks
+- Notebooks:
+  - Variational Autoencoder
+  - Huggingface diffusers
   
 ### Lecture 4: From Deep Learning to Foundation Models
 - Duration of lecture: 4 hours
 - Topics: Segmentation and Object Detection, ResNet, Vision Language Models, Foundation Models for Vision
-- Notebooks
+- Notebooks:
+  - Segment Anything with transformers
+  - YOLO
+  - DETR Object Detection
+  - Florence2
+  - ResNet
+  - Vision Transformer  
 
 ### Python packages used.
 - Keras 3
